@@ -1,4 +1,4 @@
-### Hi, I'm Ahmet Pala 👋
+### Hi, I'm Ahmet Pala 🪁
 
 I am a Machine Learning Engineer with a PhD in Applied Mathematics.  
 I work on self-supervised learning, signal processing, and acoustic data.
