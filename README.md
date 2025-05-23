@@ -1,10 +1,9 @@
 ### Hi, I'm Ahmet Pala 🪁
 
 I am a Machine Learning Engineer with a PhD in Applied Mathematics.  
-I work on self-supervised learning, signal processing, and acoustic data.
+I build data-driven and model-driven solutions using deep learning, optimization, and signal processing.
 
 🧠 Interests:
-
 - Deep CNNs and self-supervised learning
 - Robust learning with noisy, imbalanced, or incomplete data
 - Signal processing (radar and acoustic signals) and time-series analysis 
