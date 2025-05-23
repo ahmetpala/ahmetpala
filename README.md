@@ -12,3 +12,6 @@ I build data-driven and model-driven solutions using deep learning, optimization
 
 📬 How to reach me:
 [LinkedIn](https://no.linkedin.com/in/ahmet-pala-13v) • [Email](mailto:ahmtpala13@gmail.com) • [GoogleScholar](https://scholar.google.com/citations?user=6SHnpaYAAAAJ&hl=en)
+
+![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetpala&show_icons=true&theme=default)
+
