@@ -11,6 +11,6 @@ I build data-driven and model-driven solutions using deep learning, optimization
 - Scalable ML for real-world systems and edge deployment
 
 📬 How to reach me:
-[LinkedIn](https://no.linkedin.com/in/ahmet-pala-13v) • [Email](mailto:ahmtpala13@gmail.com) • [GoogleScholar](https://scholar.google.com/citations?user=6SHnpaYAAAAJ&hl=en)
+[LinkedIn](https://no.linkedin.com/in/ahmet-pala-13v) • [Email](mailto:ahmtpala13@gmail.com) • [GoogleScholar](https://scholar.google.com/citations?user=6SHnpaYAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Ahmet-Pala-3)
 
 
