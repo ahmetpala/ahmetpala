@@ -1,4 +1,4 @@
-### Hi, I'm Ahmet Pala 🪁
+### Hail🪁
 
 I am a Machine Learning Engineer with a PhD in Applied Mathematics.  
 I build data-driven and model-driven solutions using deep learning, optimization, and signal processing.
