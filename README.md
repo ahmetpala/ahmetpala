@@ -1,7 +1,7 @@
 ### Hail 🪁
 
 I am a Machine Learning Engineer with a PhD in Applied Mathematics.  
-I build data-driven and model-driven solutions using deep learning, optimization, and signal processing.
+I work on problems using deep learning, optimization, and signal processing. I use both data and models to build smart systems.
 
 🧠 Interests:
 - Robust learning with noisy, imbalanced, or incomplete data
