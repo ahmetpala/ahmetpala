@@ -11,6 +11,6 @@ I work on problems using deep learning, optimization, and signal processing. I u
 - Scalable ML for real-world systems and edge deployment
 
 📬 Links and profiles:
-[LinkedIn](https://no.linkedin.com/in/ahmet-pala-13v) • [Email](mailto:ahmtpala13@gmail.com) • [GoogleScholar](https://scholar.google.com/citations?user=6SHnpaYAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Ahmet-Pala-3)
+[LinkedIn](https://no.linkedin.com/in/ahmet-pala-13v) • [GoogleScholar](https://scholar.google.com/citations?user=6SHnpaYAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Ahmet-Pala-3) • [Email](mailto:ahmtpala13@gmail.com)
 
 
