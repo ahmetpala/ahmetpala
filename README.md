@@ -12,6 +12,6 @@ I work on problems using deep learning, optimization, and signal processing. I u
 - Game theory for strategic interactions, auctions, and resource allocation
 
 📬 Links and profiles:
-[LinkedIn](https://no.linkedin.com/in/ahmet-pala-13v) • [GoogleScholar](https://scholar.google.com/citations?user=6SHnpaYAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Ahmet-Pala-3) • [Email](mailto:ahmtpala13@gmail.com)
+[LinkedIn](https://no.linkedin.com/in/ahmet-pala-13v) • [GoogleScholar](https://scholar.google.com/citations?user=6SHnpaYAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Ahmet-Pala-3) • [Email](mailto:ahmetpala.info@gmail.com)
 
 
