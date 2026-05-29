@@ -1,6 +1,6 @@
 ### Hail 🪁
 
-I am a Machine Learning Engineer with a PhD in Applied Mathematics.  
+I am a Senior Machine Learning Engineer with a PhD in Mathematics.  
 I work on problems using deep learning, optimization, and signal processing. I use both data and models to build smart systems.
 
 🧠 Interests:
